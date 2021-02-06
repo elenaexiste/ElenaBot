@@ -2,7 +2,7 @@
 
 To use this bot you to download a few things 
 `npm install discord.js`
-`npm install fetch`
+`npm install node-fetch`
 
 Then you need to create a file named `config.json`:
 ```json
