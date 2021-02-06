@@ -12,3 +12,5 @@ Then you need to create a file named `config.json`:
   "owner": "your-user-id-here"
 }
 ```
+
+Finally `node index.js`
