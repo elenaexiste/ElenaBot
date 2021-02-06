@@ -8,7 +8,7 @@ Then you need to create a file named `config.json`:
 ```json
 {
   "token": "your-token-here",
-  "prefix": "your-prefix-here"
+  "prefix": "your-prefix-here",
   "owner": "your-user-id-here"
 }
 ```
