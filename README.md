@@ -1,6 +1,6 @@
 # ElenaBot
 
-To use this bot you to download a few things 
+To use this bot you to install a few things 
 `npm install discord.js`
 `npm install node-fetch`
 
